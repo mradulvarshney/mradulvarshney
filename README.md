@@ -15,6 +15,7 @@ I am Mradul varshney, currently pursuing my B.Tech degree in Computer Science fr
 ## Connect With Me:
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradulv26gmail.com)](mailto:mradulv26@gmail.com)
+<a href="https://instagram.com/silent.killer2010" target="blank"><img align="left" src="https://user-images.githubusercontent.com/80679669/152579378-3d4a428f-8ac6-4921-bd79-15692646420c.png" alt="silent.killer2010" width="40" /></a>
 
 ## 📈 Stats
 <table>
