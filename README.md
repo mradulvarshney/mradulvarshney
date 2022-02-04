@@ -5,7 +5,7 @@
 </p>
 <!--  -->
 
-I am Kunal Batham, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA].
+I am Mradul varshney, currently pursuing my B.Tech degree in Computer Science from [GLA UNIVERSITY, MATHURA].
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KunalBatham2701&label=Profile%20views&color=0e75b6&style=flat" alt="KunalBatham2701" /> </p>
 
