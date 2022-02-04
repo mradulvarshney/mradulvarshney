@@ -12,6 +12,10 @@ I am Mradul varshney, currently pursuing my B.Tech degree in Computer Science fr
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mradulvarshney)
 <img align='right' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="100">
 
+## Connect With Me:
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mradulv26gmail.com)](mailto:mradulv26@gmail.com)
+
 ## 📈 Stats
 <table>
 <tr>
