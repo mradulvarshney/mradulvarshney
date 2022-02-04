@@ -18,6 +18,7 @@ I am Mradul varshney, currently pursuing my B.Tech degree in Computer Science fr
 
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/mradulvarshney)
 
+<img align='center' src="https://user-images.githubusercontent.com/80679669/152499642-54b58ebb-49b5-42a7-b401-e6b957d94ec3.png" width="180">
 
 ## 📈 Stats
 <table>
@@ -31,7 +32,3 @@ I am Mradul varshney, currently pursuing my B.Tech degree in Computer Science fr
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mradulvarshney&theme=tokyonight" />
 </p>
-
-<!--END_SECTION:activity-->
-![snake gif](https://github.com/mradulvarshney/mradulvarshney/blob/output/github-contribution-grid-snake.gif)
-<!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
