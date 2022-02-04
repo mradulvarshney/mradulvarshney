@@ -5,4 +5,14 @@
 </p>
 <!--  -->
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KunalBatham2701&label=Profile%20views&color=0e75b6&style=flat" alt="KunalBatham2701" /> </p>
+
+<!-- <h2 align='center'><i><a href="https://github.com/mradulvarshney/github-readme-activity-graph">Mradul's Contribution Graph 📈</i></h2> -->
+<p align="center">
+<a href="https://github.com/mradulvarshney/github-readme-activity-graph">
+ <img src="https://activity-graph.herokuapp.com/graph?username=mradulvarshney&theme=react-dark&area=true&hide_border=true" width="100%">
+</a>
+</p>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mradulvarshney&show_icons=true&theme=radical)
+
