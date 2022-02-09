@@ -29,7 +29,7 @@ I am Mradul varshney, currently pursuing my B.Tech degree in Computer Science fr
 </tr>
 </table>
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mradulvarshney&theme=tokyonight" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agarwalmohak6&theme=tokyonight" />
 </td>
 </tr>
 </table>
