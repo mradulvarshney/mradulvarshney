@@ -30,12 +30,4 @@ I am Mradul varshney, currently pursuing my B.Tech degree in Computer Science fr
 </table>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mradulvarshney&theme=tokyonight" />
-</td>
-</tr>
-</table>
-<!-- <h2 align='center'><i><a href="https://github.com/mradulvarshney/github-readme-activity-graph">Mradul's Contribution Graph 📈</i></h2> -->
-<p align="center">
-<a href="https://github.com/mradulvarshney/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=mradulvarshney&theme=react-dark&area=true&hide_border=true" width="100%">
-</a>
-</p>  
+
