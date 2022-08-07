@@ -1,4 +1,5 @@
-<h1 align="center" >Hi, I'm <a href="https://www.instagram.com/in/mradulvarshney_2010/" target="_blank"> Mradul Varshney</a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center" >Hi, I'm  Mradul Varshney
+<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 <!-- Typing SVG by mradulvarshney - https://github.com/mradulvarshney/readme-typing-svg -->
 <p align="left">
